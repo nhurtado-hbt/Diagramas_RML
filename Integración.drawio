@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.9" pages="4">
   <diagram name="Automatización" id="bWvqBPY3RyQP4N9QrQf2">
-    <mxGraphModel dx="3151" dy="1747" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2577" dy="1430" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="MzF5qukbx1Y_Hs6AXcVZ-0" />
         <mxCell id="MzF5qukbx1Y_Hs6AXcVZ-1" parent="MzF5qukbx1Y_Hs6AXcVZ-0" />
@@ -483,7 +483,7 @@
         <mxCell id="MzF5qukbx1Y_Hs6AXcVZ-104" parent="MzF5qukbx1Y_Hs6AXcVZ-1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=20;" value="AFP HABITAT -&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ÁREA DE RIESGOS&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="700" x="1620" y="1440" as="geometry" />
         </mxCell>
-        <mxCell id="MzF5qukbx1Y_Hs6AXcVZ-105" parent="MzF5qukbx1Y_Hs6AXcVZ-1" style="rounded=0;fontStyle=0;fontSize=24;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;align=center;whiteSpace=wrap;html=1;" value="20 min" vertex="1">
+        <mxCell id="MzF5qukbx1Y_Hs6AXcVZ-105" parent="MzF5qukbx1Y_Hs6AXcVZ-1" style="rounded=0;fontStyle=0;fontSize=24;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;align=center;whiteSpace=wrap;html=1;" value="10 min" vertex="1">
           <mxGeometry height="80" width="150" x="2170" y="1500" as="geometry" />
         </mxCell>
         <mxCell id="MzF5qukbx1Y_Hs6AXcVZ-106" parent="MzF5qukbx1Y_Hs6AXcVZ-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=11;fontStyle=1" value="Tiempo de ejecución:" vertex="1">
